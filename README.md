@@ -1,16 +1,16 @@
-krakenex
+krakenex - 🦓
 ========
 
 Kraken.com exchange API, Python 2 package.
 
 
-Installation
+Installation - 💈
 -----------
 
 Run `python ./setup.py install`. The module will be called `krakenex`.
 
 
-Documentation
+Documentation - ✔️
 -------------
 
 The code is simple and documented in docstrings.
@@ -19,7 +19,7 @@ For a list of public/private API methods, see
 [Kraken API documentation][krakenapidoc].
 
 
-Attribution
+Attribution - 🔥
 -----------
 
 This code is licensed under LGPLv3. It should be available in
